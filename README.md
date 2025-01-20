@@ -20,9 +20,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white)
 ![Tibero](https://img.shields.io/badge/Tibero-%234F79B2.svg?style=flat-square)
-
-## Learning
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-
