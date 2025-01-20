@@ -1,6 +1,4 @@
-# Umgiwon
-
-## Hi there 👋
+# Umgiwon 👋
 
 ## BACKEND
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
