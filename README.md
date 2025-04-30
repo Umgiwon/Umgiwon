@@ -1,4 +1,4 @@
-# 👋
+# 👋 안녕하세요! 백엔드 개발자 엄기원입니다.
 
 ---
 
@@ -35,8 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umgiwon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umgiwon&layout=compact&theme=radical)
 
 ---
 
