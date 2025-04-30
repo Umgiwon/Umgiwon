@@ -35,11 +35,15 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umgiwon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umgiwon&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umgiwon&layout=compact&theme=radical)
 
 <!-- Commit heatmap by GitHub profile-views-counter -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Umgiwon&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 📊 GitHub 활동 그래프
+
+[![Umgiwon's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Umgiwon&theme=react-dark&area=true)](https://github.com/Umgiwon)
 
 ---
 
