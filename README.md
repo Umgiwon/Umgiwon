@@ -2,12 +2,6 @@
 
 ---
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-🚀 Java • Spring Boot • JPA • MyBatis • QueryDSL • JavaScript • Thymeleaf • Oracle • Linux • Git • Slack • Jira 💻
-</marquee>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
