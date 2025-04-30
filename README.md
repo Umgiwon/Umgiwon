@@ -1,4 +1,10 @@
-# Hi 👋
+# 👋
+
+---
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🚀 Java • Spring Boot • JPA • MyBatis • QueryDSL • JavaScript • Thymeleaf • Oracle • Linux • Git • Slack • Jira 💻
+</marquee>
 
 ---
 
@@ -37,6 +43,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umgiwon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umgiwon&layout=compact&theme=radical)
+
+<!-- Commit heatmap by GitHub profile-views-counter -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Umgiwon&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
